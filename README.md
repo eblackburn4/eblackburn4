@@ -11,8 +11,8 @@ I'm particularly passionate about applying these kinds of analysis in the contex
 ## My skills
 
 I have domain expertise in:
-- Public policymaking - particularly in the area of local growth
-- Public policy evaluation, including both qualitative and quantitative methods
+- Public policymaking, particularly in the areas of local growth and urban development, and what it means to 'level up'
+- Public policy evaluation, including both qualitative and quantitative methods (drawing on statistics, econometrics and social research)
 
 I have a good working knowledge of:
 - Undergraduate-level statistics
@@ -22,4 +22,7 @@ I have a basic knowledge of:
 - SQL
 - Python for data analysis and visualisation
 
+## My projects
+
+The code (and further detail on what it does) for my semester 1 final projects are in the two pinned repositories below this bio. Both projects are based around analysis of popular songs using the open-source MusicOSet database.
 
