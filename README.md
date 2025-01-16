@@ -24,5 +24,5 @@ I have a basic knowledge of:
 
 ## My projects
 
-The code (and further detail on what it does) for my semester 1 final projects are in the two pinned repositories below this bio. Both projects are based around analysis of popular songs using the open-source MusicOSet database.
+The code (and further detail on what it does) for my semester 1 final projects are in the two pinned repositories below this bio. Both projects are based around analysis of time trends in popular songs using the open-source MusicOSet database. More detail on each project can be found in the associated repository.
 
